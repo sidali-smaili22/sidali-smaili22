@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sidali-smaili22
+- 👀 I’m interested in Data science and the artificial intelligence
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me sidaliazer538@gmail.com
